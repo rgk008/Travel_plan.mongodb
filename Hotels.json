@@ -1,0 +1,17 @@
+[
+  {
+    "Hotel name": "abi",
+    "No of rooms": 3,
+    "place": "ooty"
+  },
+  {
+    "Hotel name": "danny",
+    "No of rooms": 4,
+    "place": "coimbatore"
+  },
+  {
+    "Hotel name": "lara",
+    "No of rooms": 2,
+    "place": "ladhak"
+  }
+]

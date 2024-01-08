@@ -1,0 +1,30 @@
+[
+  {
+    "place of destination": "ooty",
+    "Travel by": "train",
+    "No of members": 0,
+    "Duration": "8hrs",
+    "cost of the travel": 1000
+  },
+  {
+    "place of destination": "Coimbatore",
+    "Travel by": "Bus",
+    "No of members": 3,
+    "Duration": "7hrs",
+    "cost of the travel": 5000
+  },
+  {
+    "place of destination": "ladhak",
+    "Travel by": "Bike(classic 350)",
+    "No of members": 1,
+    "Duration": "2weeks",
+    "cost of the travel": 100000
+  },
+  {
+    "place of destination": "Scottland",
+    "Travel by": "Flight",
+    "No of members": 1,
+    "Duration": "15 hrs",
+    "cost of the travel": 1500000
+  }
+]
